@@ -27,6 +27,9 @@ There are many useful features in AutoHotKey. I happen to know only a few of the
 Link for AutoHotKey Forum: https://www.autohotkey.com/boards/
 
 # Disclaimer:
-The links used in this application are based on my personal learning experience. I'm not a contributer to any of the websites mentioned. If you find any misinformation in the content provided please reach out to the concerned website/owner. I hope this application saves your time in accessing important resources and helps you to learn more skills. Will be adding more resources in the future. Please do comment your feedback.
+The links used in this application are based on my personal learning experience. I'm not a contributer to any of the websites mentioned. If you find any misinformation in the content provided please reach out to the concerned website/owner. 
 
-# Wishing you all the very best for your future endeavours.
+# Conclusion:
+I hope this application saves your time in accessing free resources and helps you to learn more skills. Will be adding more resources in the future. Please do comment your feedback. Thank you.
+
+Wishing you all the very best for your future endeavours.
