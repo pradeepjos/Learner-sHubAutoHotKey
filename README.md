@@ -8,7 +8,7 @@ Learner's Hub is a simple application to access free learning resources. It brie
 It is developed by using AutoHotKey Software, a free automation tool for windows that increases efficiency by automating repetitive tasks.
 
 # How can i use it?
-1. Firstly, download the "Learner's Hub V 1.0.exe" file. 
+1. Firstly, download the "Learner's Hub.exe" file. 
 2. Then, double click on the file. A small application window appears on the right side of your screen. 
 3. Lastly, select your topic, click on the link below the subject name which you are interested in and start learning for free! 
 
@@ -27,6 +27,6 @@ There are many useful features in AutoHotKey. I happen to know only a few of the
 Link for AutoHotKey Forum: https://www.autohotkey.com/boards/
 
 # Disclaimer:
-The links used in this application are based on my personal learning experience. I'm not a contributer to any of the websites mentioned. If you find any misinformation in the content provided please reach out to the concerned website/owner. I hope this application saves your time in accessing important resources and helps you to learn more skills. 
+The links used in this application are based on my personal learning experience. I'm not a contributer to any of the websites mentioned. If you find any misinformation in the content provided please reach out to the concerned website/owner. I hope this application saves your time in accessing important resources and helps you to learn more skills. Will be adding more resources in the future. Please do comment your feedback.
 
 # Wishing you all the very best for your future endeavours.
