@@ -32,4 +32,4 @@ The links used in this application are based on my personal learning experience.
 # Conclusion:
 I hope this application saves your time in accessing free resources and helps you to learn more skills. Will be adding more resources in the future. Please do comment your feedback. Thank you.
 
-Wishing you all the very best for your future endeavours.
+Wishing you all the very best for your future endeavours! :)
